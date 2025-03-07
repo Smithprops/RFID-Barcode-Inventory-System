@@ -44,7 +44,6 @@ rfid_inventory_system/
 │   │   ├── App.js          # React front-end
 │   │   ├── components/     # Reusable React components
 │   │   ├── pages/          # Dashboard pages
-│   ├── public/
 │   ├── package.json        # React dependencies
 │   ├── Dockerfile          # Frontend containerization
 │
